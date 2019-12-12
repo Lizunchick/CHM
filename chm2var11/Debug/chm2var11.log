@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\lizun\source\repos\chm2var11\Source.cpp(64,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\lizun\source\repos\chm2var11\Source.cpp(113,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\lizun\source\repos\chm2var11\Source.cpp(434,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  chm2var11.vcxproj -> C:\Users\lizun\source\repos\chm2var11\Debug\chm2var11.exe
